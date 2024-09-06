@@ -2,6 +2,9 @@
 
 Across all files in this repository, we assume some definitions to always be in scope.
 
+Documentation for libspecr can be found [here](https://docs.rs/libspecr).
+
+
 ```rust
 /// Documentation for libspecr can be found here: https://docs.rs/libspecr
 pub use libspecr::prelude::*;
